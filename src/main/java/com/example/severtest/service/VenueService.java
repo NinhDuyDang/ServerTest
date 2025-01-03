@@ -49,7 +49,6 @@ public class VenueService {
                         "direction", "BOTH"
                 )
         ));
-
         return response;
     }
 }
